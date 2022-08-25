@@ -9,7 +9,7 @@
 from flask import Flask, render_template, request
 from flask_moment import Moment
 import requests
-import urllib.request, json
+import markdown
 
 # initiate Moment for datetime functions
 moment = Moment()
@@ -20,4 +20,14 @@ moment.init_app(app)
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    with open('content/home.md', 'r') as f:
+        text = f.read()
+        html = markdown.markdown(text)
+    return render_template('index.html', html=html)
+
+@app.route('/development')
+def development():
+    with open('content/development.md', 'r') as f:
+        text = f.read()
+        html = markdown.markdown(text)
+    return render_template('development.html', html=html)
