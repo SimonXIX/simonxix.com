@@ -10,13 +10,21 @@
 from pyzotero import zotero
 import os
 
-def get_library():
+def get_publications():
     #get variables from config file
     library_id = os.environ.get('LIBRARY_ID')
     api_key = os.environ.get('API_KEY')
 
     zot = zotero.Zotero(library_id, 'user', api_key)
-    items = zot.top(limit=5)
-    # we've retrieved the latest five top-level items in our library
-    # we can print each item's item type and ID
+    publications = zot.publications(itemType='-attachment', content='bib', sort='date', style='harvard-cite-them-right', linkwrap=1)
+    return publications
+
+def parse_publications():
+    items = get_publications()
+
+    #results = []
+    #for item in items:
+    #    if item['data']['itemType'] != 'attachment':
+    #        results.append(item['data']['date'][:4] + ', ' + item['data']['title'])
+
     return items

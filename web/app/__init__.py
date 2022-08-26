@@ -25,7 +25,7 @@ def index():
         text = f.read()
         html = markdown.markdown(text)
 
-    items = zotero.get_library()
+    items = zotero.parse_publications()
 
     return render_template('index.html', html=html, items=items)
 
@@ -42,6 +42,13 @@ def developer():
         text = f.read()
         html = markdown.markdown(text)
     return render_template('developer.html', html=html)
+
+@app.route('/librarian')
+def librarian():
+    with open('content/librarian.md', 'r') as f:
+        text = f.read()
+        html = markdown.markdown(text)
+    return render_template('librarian.html', html=html)
 
 @app.route('/photographer')
 def photographer():
