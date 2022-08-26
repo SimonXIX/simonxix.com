@@ -1,4 +1,4 @@
-I work in open-source software development in UK Higher Education having previously worked in IT and librarianship for many years. I am an experienced solutions architect and a full-stack LAMP developer (Linux, Apache/Nginx, MySQL/MariaDB, and Python/PHP) with working knowledge of Python, PHP, JavaScript, HTML and CSS with some experience of Perl, Java, and C#.
+I work in open source software development in UK Higher Education having previously worked in IT and librarianship for many years. I am an experienced solutions architect and a full-stack LAMP developer (Linux, Apache/Nginx, MySQL/MariaDB, and Python/PHP) with working knowledge of Python, PHP, JavaScript, HTML and CSS with some experience of Perl, Java, and C#.
 
 ## experiments
 

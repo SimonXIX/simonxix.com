@@ -25,9 +25,9 @@ def index():
         html = markdown.markdown(text)
     return render_template('index.html', html=html)
 
-@app.route('/development')
-def development():
-    with open('content/development.md', 'r') as f:
+@app.route('/developer')
+def developer():
+    with open('content/developer.md', 'r') as f:
         text = f.read()
         html = markdown.markdown(text)
-    return render_template('development.html', html=html)
+    return render_template('developer.html', html=html)
