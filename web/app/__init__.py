@@ -25,9 +25,30 @@ def index():
         html = markdown.markdown(text)
     return render_template('index.html', html=html)
 
+@app.route('/critic')
+def critic():
+    with open('content/critic.md', 'r') as f:
+        text = f.read()
+        html = markdown.markdown(text)
+    return render_template('critic.html', html=html)
+
 @app.route('/developer')
 def developer():
     with open('content/developer.md', 'r') as f:
         text = f.read()
         html = markdown.markdown(text)
     return render_template('developer.html', html=html)
+
+@app.route('/photographer')
+def photographer():
+    with open('content/photographer.md', 'r') as f:
+        text = f.read()
+        html = markdown.markdown(text)
+    return render_template('photographer.html', html=html)
+
+@app.route('/podcaster')
+def podcaster():
+    with open('content/podcaster.md', 'r') as f:
+        text = f.read()
+        html = markdown.markdown(text)
+    return render_template('podcaster.html', html=html)
