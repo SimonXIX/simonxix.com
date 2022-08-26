@@ -14,10 +14,16 @@ I work in open source software development in UK Higher Education having previou
 
 ## <a name="repositories"></a>repositories
 
-GitHub: [https://github.com/SimonXIX/](https://github.com/SimonXIX/)
+[GitHub](https://github.com/SimonXIX/)
 
-GitHub Gist: [https://gist.github.com/SimonXIX](https://gist.github.com/SimonXIX)
+[GitHub Gist](https://gist.github.com/SimonXIX)
 
 ## <a name="certifications"></a>certifications
 
-I have an ITIL Foundation certification in IT Service Management, an Intermediate & Practitioner Certification in Enterprise & Solution Architecture, and have experience as a PRINCE2 Registered Practitioner.
+ITIL Foundation certification in IT Service Management
+
+Intermediate Certification in Enterprise & Solution Architecture
+
+Practitioner Certification in Enterprise & Solution Architecture
+
+experience as a PRINCE2 Registered Practitioner

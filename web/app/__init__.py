@@ -10,6 +10,7 @@ from flask import Flask, render_template, request
 from flask_moment import Moment
 import requests
 import markdown
+from . import zotero
 
 # initiate Moment for datetime functions
 moment = Moment()
@@ -23,7 +24,10 @@ def index():
     with open('content/home.md', 'r') as f:
         text = f.read()
         html = markdown.markdown(text)
-    return render_template('index.html', html=html)
+
+    items = zotero.get_library()
+
+    return render_template('index.html', html=html, items=items)
 
 @app.route('/critic')
 def critic():
