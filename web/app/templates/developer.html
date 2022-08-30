@@ -18,6 +18,13 @@
 
       {{ html|safe }}
 
+      <h2>publications and presentations</h2>
+      <p>This list of publications and presentations is auto-generated from <a href="https://www.zotero.org/simonxix">my Zotero library</a> using the Zotero API.
+
+      {% for item in items %}
+        {{ item|safe }}
+      {% endfor %}
+
     </div>
   </div>
 {% endblock %}

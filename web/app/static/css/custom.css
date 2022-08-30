@@ -22,3 +22,7 @@ main > .container {
 .footer {
   display: block;
 }
+
+.csl-entry {
+  margin-bottom: 1rem;
+}

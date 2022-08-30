@@ -25,9 +25,7 @@ def index():
         text = f.read()
         html = markdown.markdown(text)
 
-    items = zotero.parse_publications()
-
-    return render_template('index.html', html=html, items=items)
+    return render_template('index.html', html=html)
 
 @app.route('/contact')
 def contact():
@@ -41,21 +39,32 @@ def critic():
     with open('content/critic.md', 'r') as f:
         text = f.read()
         html = markdown.markdown(text)
-    return render_template('critic.html', html=html)
+
+    items = zotero.get_culture_items()
+
+    fictions = zotero.get_fiction_items()
+
+    return render_template('critic.html', html=html, items=items, fictions=fictions)
 
 @app.route('/developer')
 def developer():
     with open('content/developer.md', 'r') as f:
         text = f.read()
         html = markdown.markdown(text)
-    return render_template('developer.html', html=html)
+
+    items = zotero.get_development_items()
+
+    return render_template('developer.html', html=html, items=items)
 
 @app.route('/librarian')
 def librarian():
     with open('content/librarian.md', 'r') as f:
         text = f.read()
         html = markdown.markdown(text)
-    return render_template('librarian.html', html=html)
+
+    items = zotero.get_library_items()
+
+    return render_template('librarian.html', html=html, items=items)
 
 @app.route('/photographer')
 def photographer():

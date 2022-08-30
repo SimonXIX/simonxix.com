@@ -12,7 +12,13 @@ If you require PGP secured email, please get in touch and I can provide the deta
 
 ## other websites
 
-[ORCID: 0000-0002-2437-589X](https://orcid.org/0000-0002-2437-589X)
+[ORCID](https://orcid.org/0000-0002-2437-589X)
+
+[Zotero](https://www.zotero.org/simonxix)
+
+[Humanities Commons](https://hcommons.org/members/simonxix/)
+
+[GitHub](https://github.com/SimonXIX)
 
 [Letterboxd](https://letterboxd.com/SimonXIX/)
 

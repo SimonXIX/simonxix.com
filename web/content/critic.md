@@ -5,7 +5,3 @@ As a film critic, I have reviewed films from a range of film festivals including
 ## cultural criticism
 
 I am a culture writer focusing on contemporary cinema, video games, internet culture, and cultural representations of irony and sincerity. I have a Master’s degree in Cultural and Critical Studies from Birkbeck, University of London and wrote [my dissertation on New Sincerity in contemporary indie video games](https://hcommons.org/deposits/item/hc:32869/) with reference to *Twin Peaks*, David Lynch’s *Lost Highway*, and Guy Maddin’s *My Winnipeg*.
-
-## fiction
-
-My fiction has been published in various literary publications and in *New Scientist* as the winner of their 2009 flash fiction competition.
