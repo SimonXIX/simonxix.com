@@ -1,9 +1,3 @@
-name: Simon Bowie
-
-formerly known as: Simon Barron
-
-pronouns: he/him
-
 ## email
 
 unsecure email: [simon.bowie@protonmail.com](mailto:simon.bowie@protonmail.com)

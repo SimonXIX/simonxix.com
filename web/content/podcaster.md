@@ -1,5 +1,7 @@
 ## *The Xenopod*
 
+*The Xenopod* is a podcast presented by [*TAKE ONE*](https://takeonecinema.net/) where my co-host, [Jim Ross](https://twitter.com/JimGR), and I watch and analyse all the *Alien* franchise films in release order. More details at [@TheXenopod on Twitter](https://twitter.com/TheXenopod).
+
 ## *Cinetopia*
 
 I have appeared as a contributing film critic on the film review podcast and radio show, *[Cinetopia](https://anchor.fm/cinetopia/)*. The *Cinetopia* podcast reviews the latest UK cinema releases (slanted towards arthouse cinema), and interviews with film professionals. Cinetopia is a organisation aiming to make film and filmmaking more approachable and diverse within Edinburgh and beyond.

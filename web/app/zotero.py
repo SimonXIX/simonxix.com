@@ -16,41 +16,24 @@ def get_publications():
     api_key = os.environ.get('API_KEY')
 
     zot = zotero.Zotero(library_id, 'user', api_key)
-    publications = zot.publications(itemType='-attachment', content='bib', sort='date', style='harvard-cite-them-right', linkwrap=1)
-    return publications
+    return zot
 
 def get_culture_items():
-    #get variables from config file
-    library_id = os.environ.get('LIBRARY_ID')
-    api_key = os.environ.get('API_KEY')
-
-    zot = zotero.Zotero(library_id, 'user', api_key)
+    zot = get_publications()
     publications = zot.publications(itemType='-attachment', tag='culture', content='bib', sort='date', style='harvard-cite-them-right', linkwrap=1)
     return publications
 
 def get_development_items():
-    #get variables from config file
-    library_id = os.environ.get('LIBRARY_ID')
-    api_key = os.environ.get('API_KEY')
-
-    zot = zotero.Zotero(library_id, 'user', api_key)
+    zot = get_publications()
     publications = zot.publications(itemType='-attachment', tag='development', content='bib', sort='date', style='harvard-cite-them-right', linkwrap=1)
     return publications
 
 def get_fiction_items():
-    #get variables from config file
-    library_id = os.environ.get('LIBRARY_ID')
-    api_key = os.environ.get('API_KEY')
-
-    zot = zotero.Zotero(library_id, 'user', api_key)
+    zot = get_publications()
     publications = zot.publications(itemType='-attachment', tag='fiction', content='bib', sort='date', style='harvard-cite-them-right', linkwrap=1)
     return publications
 
 def get_library_items():
-    #get variables from config file
-    library_id = os.environ.get('LIBRARY_ID')
-    api_key = os.environ.get('API_KEY')
-
-    zot = zotero.Zotero(library_id, 'user', api_key)
+    zot = get_publications()
     publications = zot.publications(itemType='-attachment', tag='library', content='bib', sort='date', style='harvard-cite-them-right', linkwrap=1)
     return publications

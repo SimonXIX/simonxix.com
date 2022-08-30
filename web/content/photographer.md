@@ -2,6 +2,8 @@ Unless otherwise specified, all photographs linked to below are © Simon Bowie a
 
 ## abandoned places
 
+[zombie-themed photography featured in The Zombie Zine by *bs/ws zine*](https://ko-fi.com/s/0c28f5200a)
+
 [the Kilmahew Estate including the abandoned St. Peter's Seminary and Kilmahew Castle](https://www.flickr.com/photos/simonxix/albums/72177720299470790)
 
 [the abandoned Carnbooth anti-aircraft battery](https://www.flickr.com/photos/simonxix/albums/72177720300421574)
