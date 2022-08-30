@@ -26,3 +26,9 @@ main > .container {
 .csl-entry {
   margin-bottom: 1rem;
 }
+
+@media (max-width: 768px) {
+  .mob-text-left {
+    align-items: flex-start !important;
+  }
+}
