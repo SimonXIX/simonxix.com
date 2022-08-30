@@ -20,4 +20,6 @@ If you require PGP secured email, please get in touch and I can provide the deta
 
 [Twitter](https://twitter.com/SimonXIX)
 
+[Medium](https://medium.com/@SimonXIX)
+
 [Flickr](https://www.flickr.com/photos/simonxix/)
