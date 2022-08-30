@@ -22,7 +22,7 @@ As a film critic, I have reviewed films from a range of film festivals including
 
 [*Monos*](http://takeonecinema.net/2019/monos/)
 
-[*The Farewell*](http://takeonecinema.net/2019/the-farewell/)
+[*The Farewell* (*别告诉她*)](http://takeonecinema.net/2019/the-farewell/)
 
 ## cultural criticism
 
