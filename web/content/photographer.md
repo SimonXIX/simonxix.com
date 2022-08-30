@@ -12,4 +12,4 @@ Unless otherwise specified, all photographs linked to below are © Simon Bowie a
 
 ## birds
 
-[photos linked to my eBird profile and uploaded to the Cornell Lab of Ornithology's Macaulay Library](https://ebird.org/profile/MzAxMDY1Mw)
+[photos linked to my eBird profile and uploaded to the Cornell Lab of Ornithology's Macaulay Library](https://ebird.org/profile/MzAxMDY1Mw) (requires registration)

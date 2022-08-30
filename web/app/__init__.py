@@ -29,6 +29,13 @@ def index():
 
     return render_template('index.html', html=html, items=items)
 
+@app.route('/contact')
+def contact():
+    with open('content/contact.md', 'r') as f:
+        text = f.read()
+        html = markdown.markdown(text)
+    return render_template('contact.html', html=html)
+
 @app.route('/critic')
 def critic():
     with open('content/critic.md', 'r') as f:

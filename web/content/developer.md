@@ -12,6 +12,8 @@ I work in open source software development in UK Higher Education having previou
 
 [generating a random poem based on dialogue from *Twin Peak*'s *Invitation to Love*](https://invitationtolove.simonxix.com/)
 
+[@EveryDune, a Twitter bot tweeting the name of a random character from Frank Herbert's *Dune* everyday](https://twitter.com/EveryDune)
+
 ## <a name="repositories"></a>repositories
 
 [GitHub](https://github.com/SimonXIX/)
