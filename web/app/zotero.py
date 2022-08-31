@@ -20,25 +20,25 @@ def get_publications():
 
 def get_culture_items():
     zot = get_publications()
-    publications = zot.publications(itemType='-attachment', tag='culture', content='bib', sort='date', style='harvard-cite-them-right', linkwrap=1)
+    publications = zot.publications(itemType='-attachment', tag='culture', content='bib', sort='date', style='modern-humanities-research-association-author-date', linkwrap=1)
     return publications
 
 def get_development_items():
     zot = get_publications()
-    publications = zot.publications(itemType='-attachment', tag='development', content='bib', sort='date', style='harvard-cite-them-right', linkwrap=1)
+    publications = zot.publications(itemType='-attachment', tag='development', content='bib', sort='date', style='modern-humanities-research-association-author-date', linkwrap=1)
     return publications
 
 def get_fiction_items():
     zot = get_publications()
-    publications = zot.publications(itemType='-attachment', tag='fiction', content='bib', sort='date', style='harvard-cite-them-right', linkwrap=1)
+    publications = zot.publications(itemType='-attachment', tag='fiction', content='bib', sort='date', style='modern-humanities-research-association-author-date', linkwrap=1)
     return publications
 
 def get_library_items():
     zot = get_publications()
-    publications = zot.publications(itemType='-attachment', tag='library', content='bib', sort='date', style='harvard-cite-them-right', linkwrap=1)
+    publications = zot.publications(itemType='-attachment', tag='library', content='bib', sort='date', style='modern-humanities-research-association-author-date', linkwrap=1)
     return publications
 
 def get_podcast_items():
     zot = get_publications()
-    publications = zot.publications(itemType='podcast', content='bib', sort='extra', direction='desc', style='harvard-cite-them-right', linkwrap=1)
+    publications = zot.publications(itemType='podcast', content='bib', sort='extra', direction='desc', style='modern-humanities-research-association-author-date', linkwrap=1)
     return publications
