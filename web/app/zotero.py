@@ -37,3 +37,8 @@ def get_library_items():
     zot = get_publications()
     publications = zot.publications(itemType='-attachment', tag='library', content='bib', sort='date', style='harvard-cite-them-right', linkwrap=1)
     return publications
+
+def get_podcast_items():
+    zot = get_publications()
+    publications = zot.publications(itemType='podcast', content='bib', sort='extra', direction='desc', style='harvard-cite-them-right', linkwrap=1)
+    return publications

@@ -18,6 +18,10 @@
 
       {{ html|safe }}
 
+      {% for item in items %}
+        {{ item|safe }}
+      {% endfor %}
+
     </div>
   </div>
 {% endblock %}

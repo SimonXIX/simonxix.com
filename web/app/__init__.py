@@ -78,4 +78,7 @@ def podcaster():
     with open('content/podcaster.md', 'r') as f:
         text = f.read()
         html = markdown.markdown(text)
-    return render_template('podcaster.html', html=html)
+
+    items = zotero.get_podcast_items()
+
+    return render_template('podcaster.html', html=html, items=items)
