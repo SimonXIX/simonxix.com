@@ -7,7 +7,12 @@ services:
       - 5000
     env_file:
       - ./.env.prod
+    volumes:
+      - ./web:/code
     command: gunicorn --bind 0.0.0.0:5000 manage:app --timeout 120
+    networks:
+      - default-network
+      - faraday-network
 
   nginx:
     image: nginx:latest
@@ -19,3 +24,36 @@ services:
       - ./nginx-conf:/etc/nginx/conf.d
     depends_on:
       - website
+    networks:
+      - default-network
+
+  tor:
+    # experiments with Tor services in Docker based on https://github.com/torservers/onionize-docker
+    container_name: tor
+    image: torservers/onionize
+    restart: always
+    volumes:
+       - /var/run/docker.sock:/tmp/docker.sock:ro
+    networks:
+       - default-network
+       - faraday-network
+
+  onion-nginx:
+    container_name: onion-nginx
+    image: nginx:latest
+    volumes:
+       - ./nginx-conf/onion:/etc/nginx/conf.d
+    environment:
+       - ONIONSERVICE_NAME=onion-nginx
+    depends_on:
+      - website
+    networks:
+       - faraday-network
+
+networks:
+  default-network:
+    driver: bridge
+  faraday-network:
+    driver: bridge
+    driver_opts:
+       enable_ip_masquerade: "false"

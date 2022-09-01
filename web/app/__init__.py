@@ -25,7 +25,10 @@ def index():
         text = f.read()
         html = markdown.markdown(text)
 
-    return render_template('index.html', html=html)
+    with open('content/onion.md', 'r') as f:
+        onion = f.read()
+
+    return render_template('index.html', html=html, onion=onion)
 
 @app.route('/contact')
 def contact():
