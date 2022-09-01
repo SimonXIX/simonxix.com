@@ -19,6 +19,12 @@ app = Flask(__name__)
 
 moment.init_app(app)
 
+@app.context_processor
+def get_onion():
+    with open('content/onion.md', 'r') as f:
+        onion = f.read()
+    return dict(onion=onion)
+
 @app.route('/')
 def index():
     with open('content/home.md', 'r') as f:

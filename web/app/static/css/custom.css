@@ -19,10 +19,6 @@ main > .container {
   padding: 60px 15px 0;
 }
 
-.footer {
-  display: block;
-}
-
 .csl-entry {
   margin-bottom: 1rem;
 }
@@ -30,5 +26,24 @@ main > .container {
 @media (max-width: 768px) {
   .mob-text-left {
     align-items: flex-start !important;
+  }
+}
+
+img.onion {
+  max-width: 20%;
+}
+
+@media (min-width: 769px) {
+  .onion {
+    text-align: right;
+  }
+}
+
+@media (max-width: 768px) {
+  .onion {
+    text-align: center;
+  }
+  img.onion {
+    max-width: 10%;
   }
 }
