@@ -16,6 +16,10 @@ To run in production mode, run:
 
 `docker-compose -f docker-compose.prod.yml up -d --build`
 
+## Nginx
+
+The Nginx configuration provided is indicative but should be sufficient for running the application as localhost. Obviously for production you'd want to provide your own configuration with, at a minimum, the domain name of the server and SSL configuration.
+
 ## onion service
 
 The production Docker Compose configuration also provides an [onion service](https://community.torproject.org/onion-services/) version of the website. This uses [torservers' Onionize](https://github.com/torservers/onionize-docker) container to automatically exposes other selected Docker containers as onion services. It uses a 'faraday' network to only expose services on that internal network outwards to the Tor network. A separate version of Nginx labelled onion-nginx exposes the website on that internal network.
