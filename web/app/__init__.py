@@ -10,6 +10,7 @@ from flask import Flask, render_template, request
 from flask_moment import Moment
 import requests
 import markdown
+import re
 from . import zotero
 
 # initiate Moment for datetime functions
@@ -57,9 +58,14 @@ def critic():
 
 @app.route('/developer')
 def developer():
+    with open('content/onion.md', 'r') as f:
+        onion = f.read()
+
     with open('content/developer.md', 'r') as f:
         text = f.read()
         html = markdown.markdown(text)
+        pattern = 'ONION_ADDRESS'
+        html = re.sub(pattern, onion, html)
 
     items = zotero.get_development_items()
 

@@ -2,6 +2,8 @@ I work in open source software development in UK Higher Education having previou
 
 ## <a name="experiments"></a>experiments
 
+[onion service version of this website](http://ONION_ADDRESS)
+
 [graphing my carbon usage](https://carbon.simonxix.com/)
 
 [generating a random heist story from Wikidata](https://wikiheist.simonxix.com/)
