@@ -6,6 +6,8 @@ I work in open source software development in UK Higher Education having previou
 
 [graphing my carbon usage](https://carbon.simonxix.com/)
 
+[displaying when my local trains are](https://github.com/SimonXIX/when_is_my_train)
+
 [generating a random heist story from Wikidata](https://wikiheist.simonxix.com/)
 
 [picking a random flavour of tea](https://tea.simonxix.com/)
