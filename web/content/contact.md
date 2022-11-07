@@ -26,6 +26,7 @@ If you require PGP secured email, please get in touch and I can provide the deta
 [Twitter](https://twitter.com/SimonXIX)
 [Mastodon](https://mastodon.scot/@simonxix)
 [Tumblr](https://www.tumblr.com/simonxix)
+Discord: simonxix#9551
 [cohost](https://cohost.org/simonxix)
 [Tribel](https://tribel.com/Simon4f2acb8/wall)
 [WT.Social](https://wt.social/u/simon-bowie)
