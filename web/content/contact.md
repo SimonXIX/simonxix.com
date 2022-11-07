@@ -4,24 +4,28 @@ unsecure email: [simon.bowie@protonmail.com](mailto:simon.bowie@protonmail.com)
 
 If you require PGP secured email, please get in touch and I can provide the details of my secure email address and PGP public key.
 
-## other websites
+## other places
+
+### work and writing
 
 [ORCID](https://orcid.org/0000-0002-2437-589X)
-
 [Zotero](https://www.zotero.org/simonxix)
-
 [Humanities Commons](https://hcommons.org/members/simonxix/)
-
 [GitHub](https://github.com/SimonXIX)
-
-[Letterboxd](https://letterboxd.com/SimonXIX/)
-
 [LinkedIn](https://www.linkedin.com/in/simonbowie/)
-
-[Twitter](https://twitter.com/SimonXIX)
-
 [Medium](https://medium.com/@SimonXIX)
 
+### stuff I've watched, read, photographed
+
+[Letterboxd](https://letterboxd.com/SimonXIX/)
+[LibraryThing](https://www.librarything.com/profile/SimonXIX)
 [Flickr](https://www.flickr.com/photos/simonxix/)
 
-[LibraryThing](https://www.librarything.com/profile/SimonXIX)
+### social media
+
+[Twitter](https://twitter.com/SimonXIX)
+[Mastodon](https://mastodon.scot/@simonxix)
+[Tumblr](https://www.tumblr.com/simonxix)
+[cohost](https://cohost.org/simonxix)
+[Tribel](https://tribel.com/Simon4f2acb8/wall)
+[WT.Social](https://wt.social/u/simon-bowie)
