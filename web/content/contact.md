@@ -24,7 +24,7 @@ If you require PGP secured email, please get in touch and I can provide the deta
 ### social media
 
 [Twitter](https://twitter.com/SimonXIX)
-[Mastodon](https://mastodon.scot/@simonxix)
+<a rel="me" href="https://mastodon.scot/@simonxix">Mastodon</a>
 [Tumblr](https://www.tumblr.com/simonxix)
 [Discord](https://discord.com/channels/simonxix#9551)
 [cohost](https://cohost.org/simonxix)
