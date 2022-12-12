@@ -15,11 +15,13 @@ If you require PGP secured email, please get in touch and I can provide the deta
 [LinkedIn](https://www.linkedin.com/in/simonbowie/)
 [Medium](https://medium.com/@SimonXIX)
 
-### stuff I've watched, read, photographed
+### stuff I've watched, read, played, photographed
 
 [Letterboxd](https://letterboxd.com/SimonXIX/)
 [LibraryThing](https://www.librarything.com/profile/SimonXIX)
+[Steam](https://steamcommunity.com/profiles/76561198103176634/)
 [Flickr](https://www.flickr.com/photos/simonxix/)
+
 
 ### social media
 
