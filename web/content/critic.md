@@ -2,6 +2,10 @@
 
 As a film critic, I have reviewed films from a range of film festivals including BFI London Film Festival, Glasgow Film Festival, Fantasia International Film Festival, and BFI Flare LGBTIQ+ Film Festival. I have also appeared as a contributing film critic on the film review podcast and radio show, *[Cinetopia](https://anchor.fm/cinetopia/)*.
 
+### Reviews Per Minute
+
+In 2023, I am reviewing every film I see during the year with a word count that corresponds to the number of minutes long the film is. This project is called [Reviews Per Minute](https://reviewsperminute.simonxix.com/).
+
 ### selected film reviews
 
 [*Hommage* (*오마주*)](https://takeonecinema.net/2022/hommage/)
