@@ -8,15 +8,17 @@ In 2023, I am reviewing every film I see during the year with a word count that 
 
 ### selected film reviews
 
+[Glasgow Short Film Festival 2023](https://takeonecinema.net/2023/glasgow-short-film-festival-2023/)
+
+[*Sanctuary*](https://takeonecinema.net/2023/sanctuary/)
+
+[*How to Blow Up a Pipeline*](https://takeonecinema.net/2023/how-to-blow-up-a-pipeline/)
+
 [*Hommage* (*오마주*)](https://takeonecinema.net/2022/hommage/)
 
 [*Vortex*](https://takeonecinema.net/2022/vortex/)
 
-[*A Banquet*](https://takeonecinema.net/2022/a-banquet/)
-
 [*Woodlands Dark and Days Bewitched*](https://takeonecinema.net/2021/woodlands-dark-and-days-bewitched/)
-
-[*Alien on Stage*](https://takeonecinema.net/2021/alien-on-stage/)
 
 [*Possessor*](http://takeonecinema.net/2020/possessor/)
 
