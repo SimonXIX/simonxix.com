@@ -52,3 +52,7 @@ img.onion {
     max-width: 10%;
   }
 }
+
+.review_link {
+  font-style: italic;
+}

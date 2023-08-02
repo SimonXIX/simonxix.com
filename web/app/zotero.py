@@ -9,6 +9,7 @@
 
 from pyzotero import zotero
 import os
+import random
 
 def get_publications():
     #get variables from config file
@@ -42,3 +43,24 @@ def get_podcast_items():
     zot = get_publications()
     publications = zot.publications(itemType='podcast', content='bib', sort='extra', direction='desc', style='modern-humanities-research-association-author-date', linkwrap=1)
     return publications
+
+def get_film_reviews():
+    #get variables from config file
+    group_id = os.environ.get('GROUP_ID')
+    api_key = os.environ.get('API_KEY')
+
+    zot = zotero.Zotero(group_id, 'group', api_key)
+
+    items = zot.items(itemType='-attachment')
+
+    random.shuffle(items)
+
+    reviews=[]
+
+    for item in items[:10]:
+        review = {}
+        review['title'] = item['data']['title']
+        review['link'] = item['data']['url']
+        reviews.append(review)
+
+    return reviews

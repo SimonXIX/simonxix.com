@@ -54,7 +54,9 @@ def critic():
 
     fictions = zotero.get_fiction_items()
 
-    return render_template('critic.html', html=html, items=items, fictions=fictions)
+    reviews = zotero.get_film_reviews()
+
+    return render_template('critic.html', html=html, items=items, fictions=fictions, reviews=reviews)
 
 @app.route('/developer')
 def developer():

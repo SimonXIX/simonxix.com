@@ -18,6 +18,10 @@
 
       {{ html|safe }}
 
+      {% for review in reviews %}
+        <p><a class="review_link" href="{{ review['link'] }}">{{ review['title'] }}</a></p>
+      {% endfor %}
+
       <h2>publications and presentations</h2>
       <p>This list of publications and presentations is auto-generated from <a href="https://www.zotero.org/simonxix">my Zotero library</a> using the Zotero API.
 

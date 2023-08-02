@@ -1,3 +1,7 @@
+## cultural criticism
+
+I am a culture writer focusing on contemporary cinema, video games, internet culture, and cultural representations of irony and sincerity. I have a Master’s degree in Cultural and Critical Studies from Birkbeck, University of London and wrote [my dissertation on New Sincerity in contemporary indie video games](https://hcommons.org/deposits/item/hc:32869/) with reference to *Twin Peaks*, David Lynch’s *Lost Highway*, and Guy Maddin’s *My Winnipeg*.
+
 ## film criticism
 
 As a film critic, I have reviewed films from a range of film festivals including BFI London Film Festival, Glasgow Film Festival, Fantasia International Film Festival, and BFI Flare LGBTIQ+ Film Festival. I have also appeared as a contributing film critic on the film review podcast and radio show, *[Cinetopia](https://anchor.fm/cinetopia/)*.
@@ -8,28 +12,4 @@ In 2023, I am reviewing every film I see during the year with a word count that 
 
 ### selected film reviews
 
-[Glasgow Short Film Festival 2023](https://takeonecinema.net/2023/glasgow-short-film-festival-2023/)
-
-[*Sanctuary*](https://takeonecinema.net/2023/sanctuary/)
-
-[*How to Blow Up a Pipeline*](https://takeonecinema.net/2023/how-to-blow-up-a-pipeline/)
-
-[*Hommage* (*오마주*)](https://takeonecinema.net/2022/hommage/)
-
-[*Vortex*](https://takeonecinema.net/2022/vortex/)
-
-[*Woodlands Dark and Days Bewitched*](https://takeonecinema.net/2021/woodlands-dark-and-days-bewitched/)
-
-[*Possessor*](http://takeonecinema.net/2020/possessor/)
-
-[*Relic*](http://takeonecinema.net/2020/relic/)
-
-[*What Did Jack Do?*](http://takeonecinema.net/2020/what-did-jack-do/)
-
-[*Monos*](http://takeonecinema.net/2019/monos/)
-
-[*The Farewell* (*别告诉她*)](http://takeonecinema.net/2019/the-farewell/)
-
-## cultural criticism
-
-I am a culture writer focusing on contemporary cinema, video games, internet culture, and cultural representations of irony and sincerity. I have a Master’s degree in Cultural and Critical Studies from Birkbeck, University of London and wrote [my dissertation on New Sincerity in contemporary indie video games](https://hcommons.org/deposits/item/hc:32869/) with reference to *Twin Peaks*, David Lynch’s *Lost Highway*, and Guy Maddin’s *My Winnipeg*.
+Below is a random selection from my many film reviews for *TAKE ONE*. This random selection is auto-generated from a Zotero group using the Zotero API and will present a different selection every time the page is refreshed.
