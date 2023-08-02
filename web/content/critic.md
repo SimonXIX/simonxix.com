@@ -12,4 +12,4 @@ In 2023, I am reviewing every film I see during the year with a word count that 
 
 ### selected film reviews
 
-Below is a random selection from my many film reviews for *TAKE ONE*. This random selection is auto-generated from a Zotero group using the Zotero API and will present a different selection every time the page is refreshed.
+Below is a random selection from my film reviews for *[TAKE ONE](https://takeonecinema.net/)*. This random selection is auto-generated from a Zotero group using the Zotero API and will present a different selection every time the page is refreshed.
