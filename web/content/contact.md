@@ -25,10 +25,10 @@ If you require PGP secured email, please get in touch and I can provide the deta
 
 ### social media
 
-[Twitter](https://twitter.com/SimonXIX)
-<a rel="me" href="https://zirk.us/@simonxix">Mastodon</a>
 [Bluesky](https://bsky.app/profile/simonxix.com)
+<a rel="me" href="https://zirk.us/@simonxix">Mastodon</a>
 [Tumblr](https://www.tumblr.com/simonxix)
+[X](https://twitter.com/SimonXIX)
 [Discord](https://discord.com/channels/.simonxix)
 [cohost](https://cohost.org/simonxix)
 [Tribel](https://tribel.com/Simon4f2acb8/wall)
