@@ -1,6 +1,6 @@
 ## *The Xenopod*
 
-*The Xenopod* is a podcast presented by [*TAKE ONE*](https://takeonecinema.net/) where my co-host [Jim Ross](https://twitter.com/JimGR) and I watch and analyse all the *Alien* franchise films in release order. Full episode details are available on TAKE ONE at [https://takeonecinema.net/thexenopod/](https://takeonecinema.net/thexenopod/) and references for each episode are stored in [a Zotero collection](https://www.zotero.org/simonxix/collections/NKB296WP). *The Xenopod* is also on Bluesky at [@thexenopod.bsky.social](https://bsky.app/profile/thexenopod.bsky.social) and X at [@TheXenopod](https://twitter.com/TheXenopod).
+*The Xenopod* is a podcast presented by [*TAKE ONE*](https://takeonecinema.net/) where my co-host [Jim Ross](https://twitter.com/JimGR) and I watch and analyse all the *Alien* franchise films in release order. Full episode details are available on TAKE ONE at [https://takeonecinema.net/thexenopod/](https://takeonecinema.net/thexenopod/) and references for each episode are stored in [a Zotero collection](https://www.zotero.org/simonxix/collections/NKB296WP). *The Xenopod* is also on Bluesky at [@thexenopod.bsky.social](https://bsky.app/profile/thexenopod.bsky.social) and 𝕏 at [@TheXenopod](https://twitter.com/TheXenopod).
 
 ## *You Are Being Unreasonable*
 
