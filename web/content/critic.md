@@ -8,7 +8,7 @@ As a film critic, I have reviewed films from a range of film festivals including
 
 ### Reviews Per Minute
 
-In 2023, I am reviewing every film I see during the year with a word count that corresponds to the number of minutes long the film is. This project is called [Reviews Per Minute](https://reviewsperminute.simonxix.com/).
+In 2023, I reviewed every film I watched during the year with a word count that corresponded to the number of minutes long the film is. This project was called [Reviews Per Minute](https://reviewsperminute.simonxix.com/).
 
 ### selected film reviews
 
