@@ -20,6 +20,8 @@ Soas Library Systems Replacement (2014-09 to 2015-07): In 2011, the Bloomsbury L
 
 [graphing my carbon usage](https://carbon.simonxix.com/)
 
+[remixing D. H. Lawrence's novel *Lady Chatterley's Lover* using public domain characters](https://doi.org/10.21428/03cb2075.01eef942)
+
 [displaying when my local trains are](https://github.com/SimonXIX/when_is_my_train)
 
 [generating a random heist story from Wikidata](https://wikiheist.simonxix.com/)
