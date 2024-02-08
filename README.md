@@ -6,15 +6,15 @@ This repository is the Flask application for my website at simonxix.com along wi
 
 To run the application in development mode, run:
 
-`docker-compose up -d --build`
+    docker-compose up -d --build
 
 To take the service down, run:
 
-`docker-compose down`
+    docker-compose down
 
 To run in production mode, run:
 
-`docker-compose -f docker-compose.prod.yml up -d --build`
+    docker-compose -f docker-compose.prod.yml up -d --build
 
 ## Nginx
 
@@ -26,8 +26,10 @@ The production Docker Compose configuration also provides an [onion service](htt
 
 To output the onion address that has been assigned, run the command:
 
-`docker exec onionize cat /var/lib/tor/onion_services/<ONIONSERVICE_NAME>/hostname`
+    docker exec onionize cat /var/lib/tor/onion_services/<ONIONSERVICE_NAME>/hostname
 
-(in our case): `docker exec onionize cat /var/lib/tor/onion_services/onion-nginx/hostname`
+(in our case): 
+
+    docker exec onionize cat /var/lib/tor/onion_services/onion-nginx/hostname
 
 In production, I run this command as a cron job and output the result to ./web/content/onion.md. The Flask application then reads that Markdown file and builds HTML with the address as a variable.
