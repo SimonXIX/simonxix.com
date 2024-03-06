@@ -61,6 +61,7 @@ def get_film_reviews():
         review = {}
         review['title'] = item['data']['title']
         review['link'] = item['data']['url']
+        review['date'] = item['data']['extra']
         reviews.append(review)
 
     return reviews

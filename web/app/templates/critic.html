@@ -19,7 +19,7 @@
       {{ html|safe }}
 
       {% for review in reviews %}
-        <p><a class="review_link" href="{{ review['link'] }}">{{ review['title'] }}</a></p>
+        <p><a class="review_link" href="{{ review['link'] }}">{{ review['title'] }}{% if review['date'] %} ({{ review['date'] }}){% endif %}</a></p>
       {% endfor %}
 
       <h2>publications and presentations</h2>
