@@ -10,6 +10,7 @@
 from pyzotero import zotero
 import os
 import random
+import gc
 
 def get_publications():
     #get variables from config file
