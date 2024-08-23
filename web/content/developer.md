@@ -1,5 +1,7 @@
 I work in open source software development in UK Higher Education having previously worked in IT and librarianship for many years. I am an experienced solutions architect and a full-stack LAMP developer (Linux, Apache/Nginx, MySQL/MariaDB, and Python/PHP) with working knowledge of Python, PHP, JavaScript, HTML and CSS with some experience of Perl, Java, and C#.
 
+As of August 2024, I am producing a newsletter discussing open source software and my work in open source. You can read and subscribe at [opensauce.simonxix.com](https://opensauce.simonxix.com/).
+
 ## major projects
 
 [Open Book Futures](https://copim.pubpub.org/pub/open-book-futures-announcement/) (2023-05 to present): Open Book Futures is a project to significantly expand key infrastructures created by Copim to achieve a step change in how community-owned open access book publishing is delivered. As part of this project, I am maintaining some project infrastructure and developing new experimental book publishing applications.
