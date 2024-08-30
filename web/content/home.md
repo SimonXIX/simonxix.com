@@ -6,4 +6,4 @@ formerly known as: Simon Barron
 
 pronouns: he/him
 
-bio: Simon Bowie is a culture writer, film critic, open source systems developer, open licensing advocate, critical librarian, photographer, and podcaster.
+bio: Simon Bowie is a culture writer, film critic, open source systems developer, open licensing advocate, radical librarian, photographer, and podcaster.

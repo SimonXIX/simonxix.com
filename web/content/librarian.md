@@ -6,4 +6,6 @@ I am an editor for the *[Journal of Radical Librarianship](https://journal.radic
 
 ## activism
 
-For many years, I campaigned on behalf of UK public libraries including as part of the advocacy group, Voices for the Library. The group promoted the value of the UK’s public libraries, presented the stories and views of library users and librarians, and protested the extensive public library closures planned by local councils in the UK.
+For many years, I campaigned on behalf of UK public libraries including as part of the advocacy group, Voices for the Library. The group promoted the value of the UK’s public libraries, presented the stories and views of library users and librarians, and protested the extensive public library closures planned by local councils in the UK. 
+
+I was also a volunteer in the [Radical Librarians Collective](https://rlc.radicallibrarianship.org/), a radical leftist political activist group active between 2013 and 2018 in the UK and Ireland. As part of this collective, I was active in the admin committee and in the London & South East group with a particular focus on technology and server maintenance.
