@@ -1,6 +1,10 @@
-## *The Xenopod*
+## *TAKE ONE Presents...*
 
-*The Xenopod* was a podcast presented by [*TAKE ONE*](https://takeonecinema.net/) where my co-host [Jim Ross](https://twitter.com/JimGR) and I watched and analysed all the *Alien* franchise films in release order. Full episode details are available on *TAKE ONE* at [https://takeonecinema.net/thexenopod/](https://takeonecinema.net/thexenopod/) and references for each episode are stored in [a Zotero collection](https://www.zotero.org/simonxix/collections/NKB296WP). *The Xenopod* is also on Bluesky at [@thexenopod.bsky.social](https://bsky.app/profile/thexenopod.bsky.social) and 𝕏 at [@TheXenopod](https://twitter.com/TheXenopod).
+*TAKE ONE Presents...* is a podcast series I produce and co-host with [Jim Ross](https://twitter.com/JimGR) as part of [*TAKE ONE*](https://takeonecinema.net/).
+
+In our current series, *The Dinopod*, we are watching and critically analysing all the *Jurassic Park* franchise films in release order. Subscribe at [https://podcasters.spotify.com/pod/show/takeonepresents](https://podcasters.spotify.com/pod/show/takeonepresents).
+
+In the first series, *The Xenopod*, we watched and analysed all the *Alien* franchise films in release order. Full episode details are available on *TAKE ONE* at [https://takeonecinema.net/thexenopod/](https://takeonecinema.net/thexenopod/) and references for each episode are stored in [a Zotero collection](https://www.zotero.org/groups/5642177/take_one/collections/IPWIT9CL). *The Xenopod* is also on Bluesky at [@thexenopod.bsky.social](https://bsky.app/profile/thexenopod.bsky.social) and 𝕏 at [@TheXenopod](https://twitter.com/TheXenopod).
 
 ## *You Are Being Unreasonable*
 
