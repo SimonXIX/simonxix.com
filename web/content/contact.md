@@ -27,7 +27,6 @@ If you require PGP secured email, please get in touch and I can provide the deta
 
 [Bluesky](https://bsky.app/profile/simonxix.com)
 <a rel="me" href="https://zirk.us/@simonxix">Mastodon</a>
-[𝕏](https://twitter.com/SimonXIX)
 [Tumblr](https://www.tumblr.com/simonxix)
 [Discord](https://discord.com/channels/.simonxix)
 [Tribel](https://tribel.com/Simon4f2acb8/wall)
