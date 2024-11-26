@@ -4,7 +4,7 @@ As of August 2024, I am producing a newsletter discussing open source software a
 
 ## major projects
 
-[Open Book Futures](https://copim.pubpub.org/pub/open-book-futures-announcement/) (2023-05 to present): Open Book Futures is a project to significantly expand key infrastructures created by Copim to achieve a step change in how community-owned open access book publishing is delivered. As part of this project, I am maintaining some project infrastructure and developing new experimental book publishing applications.
+[Open Book Futures](https://openbookfutures.copim.ac.uk) (2023-05 to present): Open Book Futures is a project to significantly expand key infrastructures created by Copim to achieve a step change in how community-owned open access book publishing is delivered. As part of this project, I am maintaining some project infrastructure and developing new experimental book publishing applications.
 
 [Copim](https://www.copim.ac.uk/) (2020-08 to 2023-04): Copim was a project to build community-owned, open systems and infrastructures for open access book publishing. As part of the Copim project, I contributed to Work Package 6 on experimental book publishing by developing new web applications and solutions for experimental pilot projects and for the [Experimental Publishing Compendium](https://compendium.copim.ac.uk/). I also maintained the project’s infrastructure of Linux-based open source applications including the website, version control platform, and online document storage and collaboration platform. 
 
@@ -22,11 +22,17 @@ Soas Library Systems Replacement (2014-09 to 2015-07): In 2011, the Bloomsbury L
 
 [graphing my carbon usage](https://carbon.simonxix.com/)
 
-[remixing D. H. Lawrence's novel *Lady Chatterley's Lover* using public domain characters](https://doi.org/10.21428/03cb2075.01eef942)
+[remixes of public domain novels](https://changespublishing.pubpub.org/)
 
 [displaying when my local trains are](https://github.com/SimonXIX/when_is_my_train)
 
-[generating a random heist story from Wikidata](https://wikiheist.simonxix.com/)
+[a script to migrate Hypothes.is annotations from one website to another](https://github.com/SimonXIX/hypothesis_migration)
+
+[a MediaWiki extension for transcluding all pages from a category](https://github.com/SimonXIX/CategoryTranscluder)
+
+[a web application designed as part of CBT for fear of flying](https://github.com/SimonXIX/flying_website)
+
+[an application for bulk machine translations of Markdown files using LibreTranslate](https://github.com/SimonXIX/Markdown_translation)
 
 [picking a random flavour of tea](https://tea.simonxix.com/)
 
@@ -34,7 +40,7 @@ Soas Library Systems Replacement (2014-09 to 2015-07): In 2011, the Bloomsbury L
 
 [generating a random poem based on dialogue from *Twin Peak*'s *Invitation to Love*](https://invitationtolove.simonxix.com/)
 
-[@EveryDune, a Twitter bot tweeting the name of a random character from Frank Herbert's *Dune* everyday](https://twitter.com/EveryDune)
+[@EveryDune, a Twitter bot which tweeted the name of a random character from Frank Herbert's *Dune* everyday](https://twitter.com/EveryDune)
 
 ## <a name="certifications"></a>certifications
 
