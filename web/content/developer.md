@@ -20,19 +20,19 @@ Soas Library Systems Replacement (2014-09 to 2015-07): In 2011, the Bloomsbury L
 
 [onion service version of this website](http://ONION_ADDRESS)
 
-[graphing my carbon usage](https://carbon.simonxix.com/)
+[graphing carbon usage](https://carbon.simonxix.com/)
 
-[remixes of public domain novels](https://changespublishing.pubpub.org/)
+[remixing public domain novels](https://changespublishing.pubpub.org/)
 
 [displaying when my local trains are](https://github.com/SimonXIX/when_is_my_train)
 
-[a script to migrate Hypothes.is annotations from one website to another](https://github.com/SimonXIX/hypothesis_migration)
+[migrating Hypothes.is annotations from one website to another](https://github.com/SimonXIX/hypothesis_migration)
 
-[a MediaWiki extension for transcluding all pages from a category](https://github.com/SimonXIX/CategoryTranscluder)
+[transcluding all content from pages in a category in MediaWiki](https://github.com/SimonXIX/CategoryTranscluder)
 
-[a web application designed as part of CBT for fear of flying](https://github.com/SimonXIX/flying_website)
+[getting over a fear of flying](https://github.com/SimonXIX/flying_website)
 
-[an application for bulk machine translations of Markdown files using LibreTranslate](https://github.com/SimonXIX/Markdown_translation)
+[machine translating Markdown files in bulk using LibreTranslate](https://github.com/SimonXIX/Markdown_translation)
 
 [picking a random flavour of tea](https://tea.simonxix.com/)
 
@@ -40,7 +40,7 @@ Soas Library Systems Replacement (2014-09 to 2015-07): In 2011, the Bloomsbury L
 
 [generating a random poem based on dialogue from *Twin Peak*'s *Invitation to Love*](https://invitationtolove.simonxix.com/)
 
-[@EveryDune, a Twitter bot which tweeted the name of a random character from Frank Herbert's *Dune* everyday](https://twitter.com/EveryDune)
+[tweeting the name of a random character from Frank Herbert's *Dune* everyday](https://twitter.com/EveryDune)
 
 ## <a name="certifications"></a>certifications
 
