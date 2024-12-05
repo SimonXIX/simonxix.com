@@ -28,8 +28,6 @@ Soas Library Systems Replacement (2014-09 to 2015-07): In 2011, the Bloomsbury L
 
 [migrating Hypothes.is annotations from one website to another](https://github.com/SimonXIX/hypothesis_migration)
 
-[transcluding all content from pages in a category in MediaWiki](https://github.com/SimonXIX/CategoryTranscluder)
-
 [getting over a fear of flying](https://github.com/SimonXIX/flying_website)
 
 [machine translating Markdown files in bulk using LibreTranslate](https://github.com/SimonXIX/Markdown_translation)
