@@ -1,6 +1,6 @@
 I work in open source software development in UK Higher Education having previously worked in IT and librarianship for many years. I am an experienced solutions architect and a full-stack LAMP developer (Linux, Apache/Nginx, MySQL/MariaDB, and Python/PHP) with working knowledge of Python, PHP, JavaScript, HTML and CSS with some experience of Perl, Java, and C#.
 
-As of August 2024, I am producing a newsletter discussing open source software and my work in open source. You can read and subscribe at [opensauce.simonxix.com](https://opensauce.simonxix.com/).
+As of August 2024, I am producing a newsletter discussing free and open source software and my work in open source. You can read and subscribe at [opensauce.simonxix.com](https://opensauce.simonxix.com/).
 
 ## major projects
 
