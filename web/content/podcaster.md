@@ -1,10 +1,8 @@
 ## *TAKE ONE Presents...*
 
-*TAKE ONE Presents...* is a podcast series I produce and co-host with [Jim Ross](https://bsky.app/profile/jimgr.bsky.social) as part of [*TAKE ONE*](https://takeonecinema.net/).
+*TAKE ONE Presents...* is a podcast series critically analysing blockbuster film franchies that I produce and co-host with [Jim Ross](https://bsky.app/profile/jimgr.bsky.social) as part of [*TAKE ONE*](https://takeonecinema.net/). Subscribe at [https://podcasters.spotify.com/pod/show/takeonepresents](https://podcasters.spotify.com/pod/show/takeonepresents) and check out references for each episode in [our Zotero library](https://www.zotero.org/groups/5642177/take_one/library).
 
-In our current series, *The Dinopod*, we are watching and critically analysing all the *Jurassic Park* franchise films in release order. Subscribe at [https://podcasters.spotify.com/pod/show/takeonepresents](https://podcasters.spotify.com/pod/show/takeonepresents) and read more at [https://takeonecinema.net/the-dinopod/](https://takeonecinema.net/the-dinopod/).
-
-In the first series, *The Xenopod*, we watched and analysed all the *Alien* franchise films in release order. Full episode details are available on *TAKE ONE* at [https://takeonecinema.net/thexenopod/](https://takeonecinema.net/thexenopod/) and references for each episode are stored in [a Zotero collection](https://www.zotero.org/groups/5642177/take_one/collections/IPWIT9CL). *The Xenopod* is also on Bluesky at [@thexenopod.bsky.social](https://bsky.app/profile/thexenopod.bsky.social).
+Over the three series of the podcast so far, we have covered the *Alien* franchise on [*The Xenopod*](https://takeonecinema.net/thexenopod/), the *Jurassic Park* franchise on [*The Dinopod*](https://takeonecinema.net/the-dinopod/), and are currently analysing the *Mission: Impossible* franchise on [*The Impossipod*](https://takeonecinema.net/the-impossipod/).
 
 ## *You Are Being Unreasonable*
 
