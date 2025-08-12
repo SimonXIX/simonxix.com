@@ -12,6 +12,8 @@ Soas Library Systems Replacement (2014-09 to 2015-07): In 2011, the Bloomsbury L
 
 ## <a name="repositories"></a>repositories
 
+[Codeberg](https://codeberg.org/SimonXIX)
+
 [GitHub](https://github.com/SimonXIX/)
 
 [GitHub Gist](https://gist.github.com/SimonXIX)

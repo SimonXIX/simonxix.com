@@ -11,6 +11,7 @@ If you require PGP secured email, please get in touch and I can provide the deta
 [ORCID](https://orcid.org/0000-0002-2437-589X)
 [Zotero](https://www.zotero.org/simonxix)
 [Knowledge Commons](https://hcommons.org/members/simonxix/)
+[Codeberg](https://codeberg.org/SimonXIX)
 [GitHub](https://github.com/SimonXIX)
 [LinkedIn](https://www.linkedin.com/in/simonbowie/)
 [Medium](https://medium.com/@SimonXIX)
