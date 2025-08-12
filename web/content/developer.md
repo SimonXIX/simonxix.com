@@ -26,13 +26,13 @@ Soas Library Systems Replacement (2014-09 to 2015-07): In 2011, the Bloomsbury L
 
 [remixing public domain novels](https://changespublishing.pubpub.org/)
 
-[displaying when my local trains are](https://github.com/SimonXIX/when_is_my_train)
+[displaying when my local trains are](https://codeberg.org/SimonXIX/when_is_my_train)
 
-[migrating Hypothes.is annotations from one website to another](https://github.com/SimonXIX/hypothesis_migration)
+[migrating Hypothes.is annotations from one website to another](https://codeberg.org/SimonXIX/hypothesis_migration)
 
-[getting over a fear of flying](https://github.com/SimonXIX/flying_website)
+[getting over a fear of flying](https://codeberg.org/SimonXIX/flying_website)
 
-[machine translating Markdown files in bulk using LibreTranslate](https://github.com/SimonXIX/Markdown_translation)
+[machine translating Markdown files in bulk using LibreTranslate](https://codeberg.org/SimonXIX/Markdown_translation)
 
 [picking a random flavour of tea](https://tea.simonxix.com/)
 
