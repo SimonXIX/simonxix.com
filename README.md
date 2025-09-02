@@ -6,15 +6,15 @@ This repository is the Flask application for my website at simonxix.com along wi
 
 To run the application in development mode, run:
 
-    docker-compose up -d --build
+    docker compose up -d --build
 
 To take the service down, run:
 
-    docker-compose down
+    docker compose down
 
 To run in production mode, run:
 
-    docker-compose -f docker-compose.prod.yml up -d --build
+    docker compose -f docker-compose.prod.yml up -d --build
 
 ## Nginx
 
