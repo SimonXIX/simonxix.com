@@ -16,7 +16,7 @@ from . import zotero
 # initiate Moment for datetime functions
 moment = Moment()
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='')
 
 moment.init_app(app)
 
