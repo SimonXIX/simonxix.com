@@ -4,7 +4,7 @@ As of August 2024, I am producing a newsletter discussing free and open source s
 
 ## major projects
 
-[Open Book Futures](https://openbookfutures.copim.ac.uk) (2023-05 to present): Open Book Futures is a project to significantly expand key infrastructures created by Copim to achieve a step change in how community-owned open access book publishing is delivered. As part of this project, I am maintaining some project infrastructure and developing new experimental book publishing applications.
+[Open Book Futures](https://openbookfutures.copim.ac.uk) (2023-05 to 2026-04): Open Book Futures is a project to significantly expand key infrastructures created by Copim to achieve a step change in how community-owned open access book publishing is delivered. As part of this project, I am maintaining some project infrastructure and developing new experimental book publishing applications.
 
 [Copim](https://www.copim.ac.uk/) (2020-08 to 2023-04): Copim was a project to build community-owned, open systems and infrastructures for open access book publishing. As part of the Copim project, I contributed to Work Package 6 on experimental book publishing by developing new web applications and solutions for experimental pilot projects and for the [Experimental Publishing Compendium](https://compendium.copim.ac.uk/). I also maintained the project’s infrastructure of Linux-based open source applications including the website, version control platform, and online document storage and collaboration platform. 
 
